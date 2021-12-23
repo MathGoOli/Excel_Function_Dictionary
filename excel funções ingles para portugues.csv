@@ -1,0 +1,228 @@
+﻿Inglês;Português;Descrição
+ABS;ABS;Retorna o valor absoluto de um número
+ACOS;ACOS;Retorna o arco cosseno de um número
+ACOSH;ACOSH;Retorna o cosseno hiperbólico inverso de um número
+ADDRESS;ENDEREÇO;Retorna uma referência como texto para uma única célula em uma planilha
+AND;E;Retorna VERDADEIRO se todos os argumentos forem VERDADEIRO
+ASIN;ASEN;Retorna o arco seno de um número
+ATAN;ATAN;Retorna o arco tangente de um número
+ATAN2;ATAN2;Retorna o arco tangente das coordenadas x e y especificadas
+ATANH;ATANH;Retorna a tangente hiperbólica inversa de um número
+AVEDEV;DESV.MÉDIO;Retorna a média dos desvios absolutos dos pontos de dados a partir de sua média
+AVERAGE;MÉDIA;Retorna a média dos argumentos
+AVERAGEA;MÉDIAA;Retorna a média dos argumentos, inclusive números, texto e valores lógicos
+BETADIST;DISTBETA;Retorna a função de densidade da probabilidade beta cumulativa
+BETAINV;BETA.ACUM.INV;Retorna o inverso da função de densidade da probabilidade beta cumulativa
+BINOMDIST;DISTRBINOM;Retorna a probabilidade de distribuição binomial do termo individual
+CEILING;TETO;Arredonda um número para o inteiro mais próximo ou para o múltiplo mais próximo de significância
+CELL;CÉL;Retorna informações sobre formatação, localização ou conteúdo de uma célula
+CHAR;CARACT;Retorna o caractere especificado pelo número de código
+CHIDIST;DIST.QUI;Retorna a probabilidade unicaudal da distribuição qui-quadrada
+CHIINV;INV.QUI;Retorna o inverso da probabilidade unicaudal da distribuição qui-quadrada
+CHOOSE;ESCOLHER;Escolher um valor em uma lista de valores, com base em um índice
+CLEAN;TIRAR;Remove todos os caracteres do texto que não podem ser impressos
+CODE;CÓDIGO;Retorna um código numérico para o primeiro caractere em uma seqüência de texto
+COLUMN;COL;Retorna o número da coluna de uma referência
+COLUMNS;COLS;Retorna o número de colunas em uma referência
+COMBIN;COMBIN;Retorna o número de combinações de um determinado número de objetos
+CONCATENATE;CONCATENAR;Agrupa vários itens de texto em um item de texto
+CONFIDENCE;INT.CONFIANÇA;Retorna o intervalo de confiança para uma média da população
+CORREL;CORREL;Retorna o coeficiente de correlação entre dois conjuntos de dados
+COS;COS;Retorna o cosseno de um número
+COSH;COSH;Retorna o cosseno hiperbólico de um número
+COUNT;CONT.NÚM;Calcula quantos números há na lista de argumentos
+COUNTA;CONT.VALORES;Calcula quantos valores há na lista de argumentos
+COUNTBLANK;CONTAR.VAZIO;Conta o número de células vazias no intervalo especificado
+COUNTIF;CONT.SE;Calcula o número de células não vazias em um intervalo que correspondem ao critério especificado
+COVAR;COVAR;Retorna a covariância, a média dos produtos dos desvios pares
+CRITBINOM;CRIT.BINOM;Retorna o menor valor para o qual a distribuição binomial cumulativa é menor ou igual a um valor padrão
+DATE;DATA;Retorna o número de série de uma data específica
+DATEVALUE;DATA.VALOR;Converte uma data na forma de texto para um número de série
+DAVERAGE;BDMÉDIA;Retorna a média de entradas selecionadas de um banco de dados
+DAY;DIA;Converte um número de série em um dia do mês
+DAYS360;DIAS360;Calcula o número de dias entre duas datas com base em um ano de 360 dias
+DB;BD;Retorna a depreciação de um ativo para um período especificado, usando o método de balanço de declínio fixo
+DCOUNT;BDCONTAR;Conta as células que contêm números em um banco de dados
+DCOUNTA;BDCONTARA;Conta células não vazias em um banco de dados
+DDB;BDD;Retorna a depreciação de um ativo para um período especificado usando o método de balanço de declínio duplo ou algum outro método especificado
+DEGREES;GRAUS;Converte radianos em graus
+DEVSQ;DESVQ;Retorna a soma dos quadrados dos desvios
+DGET;BDEXTRAIR;Extrai de um banco de dados um único registro que corresponde a um critério específico
+DMAX;BDMÁX;Retorna o valor máximo de entradas selecionadas de um banco de dados
+DMIN;BDMÍN;Retorna o valor mínimo de entradas selecionadas de um banco de dados
+DOLLAR;MOEDA;Converte um valor em texto no formato monetário
+DPRODUCT;BDMULTPL;Multiplica o conteúdo da coluna do banco de dados que atenda os critérios
+DSTDEV;BDEST;Estima o desvio padrão com base em uma amostra de entradas selecionadas de um banco de dados
+DSTDEVP;BDDESVPA;Calcula o desvio padrão com base na população inteira de entradas selecionadas de um banco de dados
+DSUM;BDSOMA;Adiciona os números na coluna de campos de registros do banco de dados que correspondem ao critério
+DVAR;BDVAREST;Estima a variância com base em uma amostra de entradas selecionadas de um banco de dados
+DVARP;BDVARP;Calcula a variância com base na população inteira de entradas selecionadas de um banco de dados
+ERROR.TYPE;TIPO.ERRO;Retorna um número correspondente a um tipo de erro
+EVEN;PAR;Arredonda um número para cima até o inteiro par mais próximo
+EXACT;EXATO;Verifica se dois valores de texto são idênticos
+EXP;EXP;Retorna e elevado à potência de um número especificado
+EXPONDIST;DISTEXPON;Retorna a distribuição exponencial
+FACT;FATORIAL;Retorna o fatorial de um número
+FALSO;FALSE;Retorna o valor lógico falso
+FDIST;DISTF;Retorna a distribuição de probabilidade F
+FIND;PROCURAR;Procura um valor de texto dentro de outro (diferencia maiúsculas de minúsculas)
+FINV;INVF;Retorna o inverso da distribuição de probabilidade F
+FISHER;FISHER;Retorna a transformação Fisher
+FISHERINV;FISHERIN;Retorna o inverso da transformação de Fisher
+FIXED;DEF.NÚM.DEC;Formata um número como texto com um número fixo de decimais
+FLOOR;ARREDMULTB;Arredonda um número para baixo, aproximando-o de zero
+FORECAST;PREVISÃO;Retorna um valor ao longo de uma linha reta
+FREQUENCY;FREQÜÊNCIA;Retorna uma distribuição de freqüência como uma matriz vertical
+FTEST;TESTEF;Retorna o resultado de um teste F
+FV;VF;Retorna o valor futuro de um investimento
+GAMMADIST;DISTGAMA;Retorna a distribuição gama
+GAMMAINV;INVGAMA;Retorna o inverso da distribuição cumulativa gama
+GAMMALN;LNGAMA;Retorna o logaritmo natural da função gama, G(x)
+GEOMEAN;MÉDIA.GEOMÉTRICA;Retorna a média geométrica
+GETPIVOTDATA;INFODADOSTABELADINÂMICA;Retorna os dados armazenados em uma tabela dinâmica
+GROWTH;CRESCIMENTO;Retorna valores ao longo de uma tendência exponencial
+HARMEAN;MÉDIA.HARMÔNICA;Retorna a média harmônica
+HLOOKUP;PROCH;Procura na linha superior de uma matriz e retorna o valor da célula especificada
+HOUR;HORA;Converte um número de série em uma hora
+HYPERLINK;HYPERLINK;Cria um atalho ou um salto que abre um documento armazenado em um servidor de rede, em uma intranet ou na Internet
+HYPGEOMDIST;DIST.HIPERGEOM;Retorna a distribuição hipergeométrica
+IF;SE;Especifica um teste lógico a ser executado
+INDEX;ÍNDICE;Usa um índice para escolher um valor de uma referência ou matriz
+INDIRECT;INDIRETO;Retorna uma referência indicada por um valor de texto
+INFO;INFORMAÇÃO;Retorna informações sobre o ambiente operacional atual
+INT;INT;Arredonda um número para baixo até o inteiro mais próximo
+INTERCEPT;INTERCEPÇÃO;Retorna a intercepção da linha de regressão linear
+IPMT;IPGTO;Retorna o pagamento de juros para um investimento em um determinado período
+IRR;TIR;Retorna a taxa interna de retorno de uma série de fluxos de caixa
+ISBLANK;ÉCEL.VAZIA;Retorna VERDADEIRO se o conteúdo da célula for vazio
+ISERR;ÉERRO;Retorna VERDADEIRO se o valor for um valor de erro diferente de #N/D
+ISERROR;ÉERROS;Retorna VERDADEIRO se o valor for um valor de erro
+ISLOGICAL;ÉLÓGICO;Retorna VERDADEIRO se o valor for um valor lógico
+ISNA;É.NÃO.DISP;Retorna VERDADEIRO se o valor for o valor de erro #N/D
+ISNONTEXT;É.NÃO.TEXTO;Retorna VERDADEIRO se o valor for diferente de texto
+ISNUMBER;ÉNÚM;Retorna VERDADEIRO se o valor for um número
+ISREF;ÉREF;Retorna VERDADEIRO se o valor for uma referência
+ISTEXT;ÉTEXTO;Retorna VERDADEIRO se o valor for texto
+KURT;CURT;Retorna a curtose de um conjunto de dados
+LARGE;MAIOR;Retorna o maior valor k-ésimo de um conjunto de dados
+LEFT;ESQUERDA;Retorna os caracteres mais à esquerda de um valor de texto
+LEN;NUM.CARACT;Retorna o número de caracteres de uma célula
+LINEST;PROJ.LIN;Retorna os parâmetros de uma tendência linear
+LN;LN;Retorna o logaritmo natural de um número
+LOG;LOG;Retorna o logaritmo de um número de uma base especificada
+LOG10;LOG10;Retorna o logaritmo de base 10 de um número
+LOGEST;PROJ.LOG;Retorna os parâmetros de uma tendência exponencial
+LOGINV;INVLOG;Retorna o inverso da distribuição lognormal
+LOGNORMDIST;DIST.LOGNORMAL;Retorna a distribuição lognormal cumulativa
+LOOKUP;PROC;Procura valores em um vetor ou em uma matriz
+LOWER;MINÚSCULA;Converte texto para minúsculas
+MATCH;CORRESP;Procura valores em uma referência ou matriz
+MAX;MÁXIMO;Retorna o valor máximo em uma lista de argumentos
+MAXA;MÁXIMOA;Retorna o maior valor em uma lista de argumentos, inclusive números, texto e valores lógicos
+MDETERM;MATRIZ.DETERM;Retorna o determinante de uma matriz
+MEDIAN;MED;Retorna a mediana dos números indicados
+MID;EXT.TEXTO;Retorna um número específico de caracteres de uma seqüência de texto começando na posição especificada
+MIN;MÍNIMO;Retorna o valor mínimo na lista de argumentos
+MINA;MÍNIMOA;Retorna o menor valor na lista de argumentos, inclusive números, texto e valores lógicos
+MINUTE;MINUTO;Converte um número de série em um minuto
+MINVERSE;MATRIZ.INVERSO;Retorna a matriz inversa de uma matriz
+MIRR;MTIR;Calcula a taxa interna de retorno em que fluxos de caixa positivos e negativos são financiados com diferentes taxas
+MMULT;MATRIZ.MULT;Retorna o produto matricial de duas matrizes
+MOD;MOD;Retorna o resto da divisão
+MODE;MODO;Retorna o valor mais comum em um conjunto de dados
+MONTH;MÊS;Converte um número de série em um mês
+N;N;Retorna o valor convertido em um número
+NA;NÃO.DISP;Retorna o valor de erro #N/D
+NEGBINOMDIST;DIST.BIN.NEG;Retorna a distribuição binomial negativa
+NORMDIST;DIST.NORM.N;Retorna a distribuição normal da média e do desvio padrão especificados
+NORMINV;INV.NORM;Retorna o inverso da distribuição cumulativa normal
+NORMSDIST;DIST.NORMP;Retorna a distribuição cumulativa normal padrão
+NORMSINV;INV.NORMP;Retorna o inverso da distribuição cumulativa normal padrão
+NOT;NÃO;Inverte o valor lógico do argumento
+NOW;AGORA;Retorna o número de série da data e da hora atuais
+NPER;NPER;Retorna o número de períodos de um investimento
+NPV;VPL;Retorna o valor líquido atual de um investimento com base em uma série de fluxos de caixa periódicos e em uma taxa de desconto
+ODD;ÍMPAR;Retorna o número arredondado para cima até o inteiro ímpar mais próximo
+OFFSET;DESLOC;Retorna um deslocamento de referência com base em umadeterminada referência
+OR;OU;Retorna VERDADEIRO se um dos argumentos for VERDADEIRO
+PEARSON;PEARSON;Retorna o coeficiente de correlação do momento do produto Pearson
+PERCENTILE;PERCENTIL;Retorna o k-ésimo percentil de valores em um intervalo
+PERCENTRANK;ORDEM.PORCENTUAL;Retorna a ordem percentual de um valor em um conjunto de dados
+PERMUT;PERMUT;Retorna o número de permutações para um dado número de objetos
+PI;PI;Retorna o valor de Pi
+PMT;PGTO;Retorna o pagamento periódico de uma anuidade
+POISSON;POISSON;Retorna a distribuição Poisson
+POWER;POTÊNCIA;Retorna o resultado de um número elevado a uma potência
+PPMT;PPGTO;Retorna o pagamento de capital para determinado período de investimento
+PROB;PROB;Retorna a probabilidade de valores em um intervalo estarem entre dois limites
+PRODUCT;MULT;Multiplica os argumentos
+PROPER;PRI.MAIUSCULA;Converte a primeira letra de cada palavra em maiúscula
+PV;VP;Retorna o valor presente de um investimento
+QUARTILE;QUARTIL;Retorna o quartil de um conjunto de dados
+RADIANS;RADIANOS;Converte graus em radianos
+RAND;ALEATÓRIO;Retorna um número aleatório entre 0 e 1
+RANK;ORDEM;Retorna a posição de um número em uma lista de números
+RATE;TAXA;Retorna a taxa de juros por período de uma anuidade
+REPLACE;MUDAR;Muda os caracteres dentro do texto
+REPT;REPT;Repete um texto um determinado número de vezes
+RIGHT;DIREITA;Retorna os caracteres mais à direita de um valor de texto
+ROMAN;ROMANO;Converte um numeral arábico em romanos, como texto
+ROUND;ARRED;Arredonda um número até uma quantidade especificada de dígitos
+ROUNDDOWN;ARREDONDAR.PARA.BAIXO;Arredonda um número para baixo até zero
+ROUNDUP;ARREDONDAR.PARA.CIMA;Arredonda um número para cima, afastando-o de zero
+ROW;LIN;Retorna o número da linha de uma referência
+ROWS;LINS;Retorna o número de linhas em uma referência
+RSQ;RQUAD;Retorna o quadrado do coeficiente de correlação do momento do produto de Pearson
+SEARCH;LOCALIZAR;Localiza um valor de texto dentro de outro (não diferencia maiúsculas de minúsculas)
+SECOND;SEGUNDO;Converte um número de série em um segundo
+SERIESSUM;SOMASEQÜÊNCIA;Retorna a soma de uma série polinomial
+SIGN;SINAL;Retorna o sinal de um número
+SIN;SEN;Retorna o seno de um ângulo dado
+SINH;SENH;Retorna o seno hiperbólico de um número
+SKEW;DISTORÇÃO;Retorna a distorção de uma distribuição
+SLN;DPD;Retorna a depreciação em linha reta de um ativo durante um período
+SLOPE;INCLINAÇÃO;Retorna a inclinação da linha de regressão linear
+SMALL;MENOR;Retorna o menor valor k-ésimo em um conjunto de dados
+SQRT;RAIZ;Retorna uma raiz quadrada positiva
+STANDARDIZE;PADRONIZAR;Retorna um valor normalizado
+STDEV;DESVPAD;Estima o desvio padrão com base em uma amostra
+STDEVA;DESVPADA;Estima o desvio padrão com base em uma amostra, inclusive números, texto e valores lógicos
+STDEVP;DESVPADP;Calcula o desvio padrão com base na população total
+STDEVPA;DESVPADPA;Calcula o desvio padrão com base na população total, inclusive números, texto e valores lógicos
+STEYX;EPADYX;Retorna o erro padrão do valor y previsto para cada x da regressão
+SUBSTITUTE;SUBSTITUIR;Substituir um novo texto por um texto antigo em uma seqüência de texto
+SUBTOTAL;SUBTOTAL;Retorna um subtotal em uma lista ou em um banco de dados
+SUM;SOMA;Adiciona os argumentos
+SUMIF;SOMASE;Adiciona as células especificadas por um determinado critério
+SUMPRODUCT;SOMARPRODUTO;Retorna a soma dos produtos de componentes correspondentes de matrizes
+SUMSQ;SOMAQUAD;Retorna a soma dos quadrados dos argumentos
+SUMX2PY2;SOMAX2SY2;Retorna a soma da soma dos quadrados dos valores correspondentes em duas matrizes
+SYD;SDA;Retorna a depreciação dos dígitos da soma dos anos de um ativopara um período especificado
+T;T;Converte os argumentos em texto
+TAN;TAN;Retorna a tangente de um número
+TANH;TANH;Retorna a tangente hiperbólica de um número
+TDIST;DISTT;Retorna a distribuição t de Student
+TEXT;TEXTO;Formata um número e o converte em texto
+TIME;TEMPO;Retorna o número de série de um horário específico
+TIMEVALUE;VALOR.TEMPO;Converte um horário na forma de texto para um número de série
+TINV;INVT;Retorna o inverso da distribuição t de Student
+TODAY;HOJE;Retorna o número de série da data de hoje
+TRANSPOSE;TRANSPOR;Converte um intervalo de células de vertical em horizontal e vice-versa
+TREND;TENDÊNCIA;Retorna valores ao longo de uma tendência linear
+TRIM;ARRUMAR;Remove espaços do texto
+TRIMMEAN;MÉDIA.INTERNA;Retorna a média do interior de um conjunto de dados
+TRUNC;TRUNCAR;Trunca um número para um inteiro
+TTEST;TESTET;Retorna a probabilidade associada ao teste t de Student
+TYPE;TIPO;Retorna um número indicando o tipo de dados de um valor
+UPPER;MAIÚSCULA;Converte o texto em maiúsculas
+VALUE;VALOR;Converte um argumento de texto em um número
+VAR;VAR;Estima a variância com base em uma amostra
+VARA;VARA;Estima a variância com base em uma amostra, inclusive números, texto e valores lógicos
+VARP;VARP;Calcula a variância com base na população total
+VARPA;VARPA;Calcula a variância com base na população total, inclusive números, texto e valores lógicos
+VERDADEIRO;TRUE;Retorna o valor lógico verdadeiro
+VLOOKUP;PROCV;Procura na primeira coluna de uma matriz e move ao longo da linha para retornar o valor de uma célula
+WEEKDAY;DIA.DA.SEMANA;Converte um número de série em um dia da semana
+WEIBULL;WEIBULL;Retorna a distribuição Weibull
+YEAR;ANO;Converte um número de série em um ano
+ZTEST;TESTEZ;Retorna o valor-P bicaudal do teste-z
